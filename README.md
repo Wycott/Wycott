@@ -1,6 +1,6 @@
-# 👋 Well, hello! 👋
+# 👋 Well, hi! 👋
 
-Hi. I'm Wycott. 
+Thanks for checking out my profile. I'm Wycott. I'm about 50 years old and I live and work in the UK.
 
 `⬅ Insert cool graphic here`
 
