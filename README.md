@@ -17,3 +17,7 @@ Constant learning and fun!
 ## 🏋️‍♂️ Interests 🏋️‍♂️
 
 Cyberpunk, weight training, problem solving, current affairs and music.
+
+## 🤔 Anything else? 🤔
+
+I'm on [Discord](https://discordapp.com/users/974169867475365888)
