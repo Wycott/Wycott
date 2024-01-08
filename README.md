@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 - Well, hello! - 👋
 
-<!--
-**Wycott/Wycott** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi. I'm Wycott. 
 
-Here are some ideas to get you started:
+## 🤷‍♂️ - What do I do? - 🤷‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been an engineer for about 25 years. Many industries, languages and platforms. These days, I enjoy doing things with C#.
+
+## 👨‍💻 - I mean on GitHub! - 👨‍💻
+
+In my public repos, tools, games and recreational math mainly. I love to see what other people are working on too.
+
+## ✨ - What I believe in - ✨
+
+Constant learning and fun!
+
+## 🏋️‍♂️ - Interests - 🏋️‍♂️
+
+Cyberpunk, weight training, problem solving, current affairs and music.
