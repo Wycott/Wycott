@@ -14,7 +14,7 @@ Lots of things - but tools, games and recreational math mainly. I love to see wh
 
 ## ✨ What I believe in ✨
 
-Constant learning and fun!
+Continual learning and fun!
 
 ## 🏋️‍♂️ Interests 🏋️‍♂️
 
